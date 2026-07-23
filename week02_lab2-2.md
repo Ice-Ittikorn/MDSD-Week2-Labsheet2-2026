@@ -1,4 +1,4 @@
-<img width="1312" height="925" alt="ภาพถ่ายหน้าจอ 2569-07-23 เวลา 19 33 34" src="https://github.com/user-attachments/assets/9f54cb2b-9a91-4446-9007-c7c87aca33c5" /># Flutter Framework Basics
+<img width="1312" height="925" alt="ภาพถ่ายหน้าจอ 2569-07-23 เวลา 19 46 16" src="https://github.com/user-attachments/assets/814708fe-74e8-4846-9406-d7e4fb48dff2" /><img width="1312" height="925" alt="ภาพถ่ายหน้าจอ 2569-07-23 เวลา 19 33 34" src="https://github.com/user-attachments/assets/9f54cb2b-9a91-4446-9007-c7c87aca33c5" /># Flutter Framework Basics
 ### วิชา: การพัฒนาซอฟต์แวร์สำหรับอุปกรณ์เคลื่อนที่
 
 | | |
@@ -610,16 +610,16 @@ class InfoCard extends StatelessWidget {
 
 **ขั้นตอนที่ 3** บันทึกและตรวจสอบผล — ควรเห็น Card 3 ใบเรียงกัน
 **บันทึกรูปผลการทดลอง**
-```
-บันทึกรูปที่นี่
-```
+
+<img width="1312" height="925" alt="ภาพถ่ายหน้าจอ 2569-07-23 เวลา 19 42 17" src="https://github.com/user-attachments/assets/4f6254f3-644d-4370-bc41-8d9a513af026" />
+
 
 **✏️ ทดลองแก้ไข E:** เพิ่ม `InfoCard` ที่ 4 แสดง "คณะ" ด้วยไอคอน `Icons.account_balance` สีแดง
 
 **บันทึกรูปผลการทดลอง**
-```
-บันทึกรูปที่นี่
-```
+
+<img width="1312" height="925" alt="ภาพถ่ายหน้าจอ 2569-07-23 เวลา 19 46 35" src="https://github.com/user-attachments/assets/297cade8-7381-49d9-903c-cfa91b8d1eee" />
+
 ---
 
 ### การทดลองที่ 4 — StatefulWidget: Counter
