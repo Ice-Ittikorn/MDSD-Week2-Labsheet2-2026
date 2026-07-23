@@ -1,4 +1,4 @@
-### วิชา: การพัฒนาซอฟต์แวร์สำหรับอุปกรณ์เคลื่อนที่
+<img width="1312" height="925" alt="ภาพถ่ายหน้าจอ 2569-07-23 เวลา 19 56 26" src="https://github.com/user-attachments/assets/314affad-9702-4518-854f-a65269cef7d8" />### วิชา: การพัฒนาซอฟต์แวร์สำหรับอุปกรณ์เคลื่อนที่
 
 | | |
 |--|--|
@@ -758,9 +758,8 @@ class _CounterSectionState extends State<CounterSection> {
 
 **ขั้นตอนที่ 3** บันทึกและทดลองกดปุ่ม +, -, Reset และสลับ Step
 **บันทึกรูปผลการทดลอง**
-```
-บันทึกรูปที่นี่
-```
+
+<img width="1312" height="925" alt="ภาพถ่ายหน้าจอ 2569-07-23 เวลา 19 54 34" src="https://github.com/user-attachments/assets/f8740188-a734-473f-9aa4-919039097e95" />
 
 
 **✏️ ทดลองแก้ไข F:** ทดลองลบ `setState()` ออก เหลือแค่ `_count += _step` แล้วกดปุ่ม สังเกตว่าตัวเลขไม่เปลี่ยนบนหน้าจอแม้ตัวแปรเปลี่ยน แล้วใส่ `setState()` กลับคืน
@@ -898,11 +897,19 @@ class _GreetingFormState extends State<GreetingForm> {
 **ขั้นตอนที่ 3** บันทึกและทดสอบ — กรอกชื่อแล้วกดปุ่ม
 
 **บันทึกรูปผลการทดลอง**
-```
-บันทึกรูปที่นี่
-```
+
+<img width="1312" height="925" alt="ภาพถ่ายหน้าจอ 2569-07-23 เวลา 19 56 26" src="https://github.com/user-attachments/assets/18a5ab71-3851-4909-bacb-7edd6cfaf627" />
+
 
 **✏️ ทดลองแก้ไข G:** ทดลองกดปุ่มโดยไม่กรอกชื่อ สังเกตว่า Error Message ปรากฏ และกดปุ่ม Reset (clear field) แล้วสังเกตว่า Error หายไป
+
+## Error Message ปรากฏ
+
+<img width="1312" height="925" alt="ภาพถ่ายหน้าจอ 2569-07-23 เวลา 19 58 20" src="https://github.com/user-attachments/assets/d08060fd-7372-43cc-88e1-f649b50784c3" />
+
+## Error Message หาย
+
+<img width="1312" height="925" alt="ภาพถ่ายหน้าจอ 2569-07-23 เวลา 19 58 44" src="https://github.com/user-attachments/assets/2ef2099a-3f44-4e1e-a2e4-26b71f564885" />
 
 ---
 
