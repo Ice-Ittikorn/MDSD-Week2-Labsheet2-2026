@@ -1507,6 +1507,8 @@ colorScheme: ColorScheme.fromSeed(seedColor: Colors.teal),
 
 **โจทย์ A (ง่าย):** เพิ่ม Tab ที่ 4 ชื่อ "About" แสดงชื่อ รหัสนักศึกษา และคณะของตัวเอง พร้อมรูป Avatar (ใช้ `CircleAvatar` กับ Text แรกของชื่อ)
 
+<img width="1624" height="955" alt="ภาพถ่ายหน้าจอ 2569-07-23 เวลา 22 13 17" src="https://github.com/user-attachments/assets/3937a977-d184-4570-8f6a-4191a2489efc" />
+
 **โจทย์ B (กลาง):** ใน Counter Page เพิ่ม History ที่บันทึกทุกการกระทำ (เพิ่ม/ลด/Reset) พร้อมเวลา เช่น "14:30:25 — เพิ่ม 5 (รวม: 15)" แสดงเป็น List ด้านล่าง Counter และมีปุ่ม "ล้าง History"
 
 <img width="1624" height="955" alt="ภาพถ่ายหน้าจอ 2569-07-23 เวลา 21 22 53" src="https://github.com/user-attachments/assets/f7480b32-a595-488a-8e45-ca35455509c3" />
