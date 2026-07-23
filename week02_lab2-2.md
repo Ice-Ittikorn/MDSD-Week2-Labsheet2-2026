@@ -1,4 +1,4 @@
-# ใบงานการทดลองที่ 2-2
+<img width="1312" height="925" alt="ภาพถ่ายหน้าจอ 2569-07-23 เวลา 19 16 30" src="https://github.com/user-attachments/assets/daa6b15a-a79d-4173-821f-17929d8d27be" /># ใบงานการทดลองที่ 2-2
 # Flutter Framework Basics
 ### วิชา: การพัฒนาซอฟต์แวร์สำหรับอุปกรณ์เคลื่อนที่
 
@@ -460,9 +460,26 @@ flutter run
 **✏️ ทดลองแก้ไข C:** เปลี่ยน `MainAxisAlignment.center` ของ Column เป็น `.start`, `.end`, `.spaceBetween`, `.spaceEvenly` ทีละอัน สังเกตการเปลี่ยนแปลง
 
 **บันทึกรูปผลการทดลอง**
+## .start
+<img width="1312" height="925" alt="ภาพถ่ายหน้าจอ 2569-07-23 เวลา 19 14 19" src="https://github.com/user-attachments/assets/f56c1be6-d169-4f00-84ba-502346eb14e5" />
 ```
-บันทึกรูปที่นี่
+Column ทั้งหมดชิดด้านบน
 ```
+## .end
+<img width="1312" height="925" alt="ภาพถ่ายหน้าจอ 2569-07-23 เวลา 19 15 31" src="https://github.com/user-attachments/assets/e9e756b4-9988-42fd-9566-5d7bfd5b5b14" />
+```
+Column ทั้งหมดชิดด้านล่าง
+```
+## .spaceBetween
+<img width="1312" height="925" alt="ภาพถ่ายหน้าจอ 2569-07-23 เวลา 19 16 49" src="https://github.com/user-attachments/assets/49416fd4-1dbc-49c9-a81f-5bf353847841" />
+```
+Column แบ่งระยะห่างเท่าๆกันในแนวตั้ง
+```
+## .spaceEvenly 
+```
+Column แบ่งระยะห่างเท่าๆกันในแนวตั้งเเละเว้นด้านบนเเละด้านล่าง
+```
+
 **✏️ ทดลองแก้ไข D:** ใน Row เพิ่ม Container D สีม่วง ขนาด 80×80 ต่อจาก C
 **บันทึกรูปผลการทดลอง**
 ```
