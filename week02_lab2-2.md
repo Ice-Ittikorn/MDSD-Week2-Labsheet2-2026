@@ -1,4 +1,5 @@
-<img width="1312" height="925" alt="ภาพถ่ายหน้าจอ 2569-07-23 เวลา 19 56 26" src="https://github.com/user-attachments/assets/314affad-9702-4518-854f-a65269cef7d8" />### วิชา: การพัฒนาซอฟต์แวร์สำหรับอุปกรณ์เคลื่อนที่
+<img width="1312" height="925" alt="ภาพถ่ายหน้าจอ 2569-07-23 เวลา 19 56 26" src="https://github.com/user-attachments/assets/314affad-9702-4518-854f-a65269cef7d8"
+/>### วิชา: การพัฒนาซอฟต์แวร์สำหรับอุปกรณ์เคลื่อนที่
 
 | | |
 |--|--|
@@ -1022,9 +1023,9 @@ import 'dart:async';
 
 **ขั้นตอนที่ 4** บันทึกและดูผล — เวลาควรอัปเดตทุกวินาที
 **บันทึกรูปผลการทดลอง**
-```
-บันทึกรูปที่นี่
-```
+
+<img width="953" height="955" alt="ภาพถ่ายหน้าจอ 2569-07-23 เวลา 20 10 34" src="https://github.com/user-attachments/assets/e3b28193-2dce-4fec-be05-3e59da5e7d96" />
+
 
 **✏️ ทดลองแก้ไข H:** ลองลบ `_timer?.cancel()` ใน `dispose()` แล้วสังเกต — ใน Debug Console อาจเห็น Warning "setState() called after dispose()" หลังจากออกจากหน้า แล้วใส่กลับคืน
 
