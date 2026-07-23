@@ -1,4 +1,4 @@
-/>### วิชา: การพัฒนาซอฟต์แวร์สำหรับอุปกรณ์เคลื่อนที่
+### วิชา: การพัฒนาซอฟต์แวร์สำหรับอุปกรณ์เคลื่อนที่
 
 | | |
 |--|--|
@@ -1455,6 +1455,10 @@ class _GreetingFormState extends State<GreetingForm> {
 
 **บันทึกรูปผลการทดลอง**
 
+```
+Feature ทำงานได้ปกติ
+```
+
 <img width="1624" height="955" alt="ภาพถ่ายหน้าจอ 2569-07-23 เวลา 20 19 19" src="https://github.com/user-attachments/assets/94c63f73-222c-4997-a637-1fc103473472" />
 
 ---
@@ -1479,22 +1483,22 @@ colorScheme: ColorScheme.fromSeed(seedColor: Colors.teal),
 **ขั้นตอนที่ 4** บันทึกผลในตาราง:
 
 | | หลัง Hot Reload |
-|--|--|
-| สี Theme | |
-| ค่า Counter | |
+|--|:--:|
+| สี Theme | สีมิ้น(Colors.teal) |
+| ค่า Counter | 15 |
 
 **ขั้นตอนที่ 5** กด **Hot Restart** (พิมพ์ `R` ใน Terminal หรือกด 🔄)
 
 | | หลัง Hot Restart |
-|--|--|
-| สี Theme | |
-| ค่า Counter | |
+|--|:--:|
+| สี Theme | สีมิ้น(Colors.teal) |
+| ค่า Counter | 0 |
 
 **ขั้นตอนที่ 6** อธิบายผลลัพธ์:
-
-> Hot Reload: สี __________ Counter __________ เพราะ __________
-> Hot Restart: สี __________ Counter __________ เพราะ __________
-
+```
+> Hot Reload: สี สีมิ้น(Colors.teal) Counter ____15______ เพราะ Rebuild ตัว Widget Tree ใหม่เฉพาะส่วน ทำให้ State ที่ไม่ได้เเก้ไข ไม่หาย
+> Hot Restart: สี สีมิ้น(Colors.teal) Counter ____0______ เพราะ รีสตาร์ทแอปใหม่ทั้งหมด ทำให้ State หาย
+```
 ---
 
 ### 🎯 โจทย์ฝึกทำ — ขยาย App ด้วยตนเอง
