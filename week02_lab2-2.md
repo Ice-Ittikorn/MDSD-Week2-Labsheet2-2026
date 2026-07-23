@@ -1,4 +1,3 @@
-<img width="1312" height="925" alt="ภาพถ่ายหน้าจอ 2569-07-23 เวลา 19 46 16" src="https://github.com/user-attachments/assets/814708fe-74e8-4846-9406-d7e4fb48dff2" /><img width="1312" height="925" alt="ภาพถ่ายหน้าจอ 2569-07-23 เวลา 19 33 34" src="https://github.com/user-attachments/assets/9f54cb2b-9a91-4446-9007-c7c87aca33c5" /># Flutter Framework Basics
 ### วิชา: การพัฒนาซอฟต์แวร์สำหรับอุปกรณ์เคลื่อนที่
 
 | | |
@@ -491,7 +490,7 @@ Column แบ่งระยะห่างเท่าๆกันในแน�
 Column แบ่งระยะห่างเท่าๆกันในแนวตั้งเเละเว้นด้านบนเเละด้านล่าง
 ```
 
-<img width="1312" height="925" alt="ภาพถ่ายหน้าจอ 2569-07-23 เวลา 19 16 30" src="https://github.com/user-attachments/assets/daa6b15a-a79d-4173-821f-17929d8d27be" /># ใบงานการทดลองที่ 2-2
+<img width="1312" height="925" alt="ภาพถ่ายหน้าจอ 2569-07-23 เวลา 19 33 34" src="https://github.com/user-attachments/assets/9f54cb2b-9a91-4446-9007-c7c87aca33c5" /># Flutter Framework Basics
 
 **✏️ ทดลองแก้ไข D:** ใน Row เพิ่ม Container D สีม่วง ขนาด 80×80 ต่อจาก C
 **บันทึกรูปผลการทดลอง**
@@ -618,7 +617,7 @@ class InfoCard extends StatelessWidget {
 
 **บันทึกรูปผลการทดลอง**
 
-<img width="1312" height="925" alt="ภาพถ่ายหน้าจอ 2569-07-23 เวลา 19 46 35" src="https://github.com/user-attachments/assets/297cade8-7381-49d9-903c-cfa91b8d1eee" />
+<img width="1312" height="925" alt="ภาพถ่ายหน้าจอ 2569-07-23 เวลา 19 46 16" src="https://github.com/user-attachments/assets/814708fe-74e8-4846-9406-d7e4fb48dff2" />
 
 ---
 
