@@ -1,4 +1,3 @@
-<img width="1312" height="925" alt="ภาพถ่ายหน้าจอ 2569-07-23 เวลา 19 56 26" src="https://github.com/user-attachments/assets/314affad-9702-4518-854f-a65269cef7d8"
 />### วิชา: การพัฒนาซอฟต์แวร์สำหรับอุปกรณ์เคลื่อนที่
 
 | | |
@@ -1028,6 +1027,8 @@ import 'dart:async';
 
 
 **✏️ ทดลองแก้ไข H:** ลองลบ `_timer?.cancel()` ใน `dispose()` แล้วสังเกต — ใน Debug Console อาจเห็น Warning "setState() called after dispose()" หลังจากออกจากหน้า แล้วใส่กลับคืน
+
+<img width="1624" height="955" alt="ภาพถ่ายหน้าจอ 2569-07-23 เวลา 20 13 50" src="https://github.com/user-attachments/assets/b6447165-450d-4e50-82f0-e9fe4074bb47" />
 
 ---
 
